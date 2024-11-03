@@ -35,10 +35,9 @@ For Software:
   
 
 1. **Clone the Repository**  
-   ```bash
-  1.git clone https://github.com/Athi183/Spectra-Useless-Project.git                                                   
+   git clone https://github.com/Athi183/Spectra-Useless-Project.git                                                   
   
-   2.cd Spectra-Useless-Project                                                        
+   cd Spectra-Useless-Project                                                        
                        
 2. Make sure to install Node JS:
    npm install
@@ -47,14 +46,14 @@ For Software:
 ### Run
 
 1. Run the following command to start the server:
-   ```bash
+
    npm start
    
 
 ### Project Documentation
 For Software:
 
-## Screenshots (Add at least 3)
+## Screenshots 
 ![Logo and Tagline](https://github.com/user-attachments/assets/eb44d046-837e-4900-afbc-af5c1fcb3a27)
 The name of the website and the tagline.                                                                                                                     
 ![Lesser carbon emissions](https://github.com/user-attachments/assets/58d7dc7e-39cc-4164-a6fe-76c14a3b85c2)
@@ -66,6 +65,6 @@ The number of trees to be planted for high carbon emissions, for which Collapse 
 
 
 ## Team Contributions
-Athira V: Front-End Development
-Meghna Veliath: Random Number Generator in JS
-Diya S Nair: Idea, planning, enhanced cases in Random Number Generator
+<p>Athira V: Front-End Development, Logo design </p>
+<p> Meghna Veliath: Random Number Generator in JS</p>
+<p> Diya S Nair: Idea, enhanced cases in Random Number Generator, attempted API integration with Gemini and Groq </p>
