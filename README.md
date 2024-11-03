@@ -37,7 +37,7 @@ For Software:
 1. **Clone the Repository**
    ```bash 
    git clone https://github.com/Athi183/Spectra-Useless-Project.git                                                   
-   ```bash
+   
    cd Spectra-Useless-Project                                                        
                        
 3. Make sure to install Node JS:
