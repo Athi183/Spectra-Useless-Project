@@ -1,65 +1,71 @@
-COLLAPSE 🎯
-Basic Details
-Team Name: Spectra                    
+# COLLAPSE 🎯
+## Basic Details
+### Team Name: Spectra                    
   
-Team Members
+### Team Members
 Team Lead: Athira V - Muthoot Institute of Technology &  Science                                                                                                                                                                                
-
   
 Member 2: Meghna Veliath - Muthoot Institute of Technology &  Science                   
   
-Member 3: Diya S Nair- Muthoot Institute of Technology &  Science   
-Project Description
+Member 3: Diya S Nair- Muthoot Institute of Technology &  Science  
+
+### Project Description
 The rate of increase in carbon emissions today is alarming, and it seems to just keep on increasing. In this premise, we make this useless website where we enter a carbon emissions value (in tonnes), and get a hilarious response in return.                               
 
-The Problem (that doesn't exist)
+### The Problem (that doesn't exist)
 Decrease in carbon emissions.
 
-The Solution (that nobody asked for)
+### The Solution (that nobody asked for)
 Here is how the website thinks:
-Increased carbon emissions call for planting as few trees as possible. This is how the website mocks the user. 
-When the user enters a carbon emission value, it generates a random number for the trees to be planted, this number will not reduce even 1% of the carbon emission rate.
-Technical Details
-                                        
+Increased carbon emissions call for planting as few trees as possible.                                  
   
   
-  
-  
+When the user enters a carbon emission value, each time "Submit" is clicked, it generates a random number for the trees to be planted, this number will not reduce even 10% of the carbon emission rate. The website, thus, mocks the user. 
+## Technical Details
 For Software:
 
 HTML
 CSS
-Node JS                    
+Node JS                                     
+                                    
   
-[Frameworks used]
-[Libraries used]
-[Tools used]
-For Hardware:
-
-[List main components]
-[List specifications]
-[List tools required]
-Implementation
 For Software:
 
-Installation
-[commands]
+## Installation                    
+  
 
-Run
-[commands]
+1. **Clone the Repository**  
+   ```bash
+  1.git clone https://github.com/Athi183/Spectra-Useless-Project.git                                                   
+  
+   2.cd Spectra-Useless-Project                                                        
+                       
+2. Make sure to install Node JS:
+   npm install
 
-Project Documentation
+
+### Run
+
+1. Run the following command to start the server:
+   ```bash
+   npm start
+   
+
+### Project Documentation
 For Software:
 
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+## Screenshots (Add at least 3)
+![Logo and Tagline](https://github.com/user-attachments/assets/eb44d046-837e-4900-afbc-af5c1fcb3a27)
+The name of the website and the tagline.                                                                                                                     
+![Lesser carbon emissions](https://github.com/user-attachments/assets/58d7dc7e-39cc-4164-a6fe-76c14a3b85c2)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+The number of trees to be planted for relatively lesser monthly carbon emissions, Collapse suggests less trees. 
+![S![High carbon emissions](https://github.com/user-attachments/assets/61a984b8-aa89-45bb-ba70-a25a32b0cfa3)
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+The number of trees to be planted for high carbon emissions, for which Collapse suggests even lesser trees.
 
 
-Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+## Team Contributions
+Athira V: Front-End Development
+Meghna Veliath: Random Number Generator in JS
+Diya S Nair: Idea, planning, enhanced cases in Random Number Generator
