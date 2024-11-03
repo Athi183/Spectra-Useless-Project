@@ -179,11 +179,7 @@ input[type="text"]:focus {
   outline: none; /* Remove default outline */
 }
 
-<<<<<<< HEAD
 button[type="button"] {
-=======
-button[type="submit"] {
->>>>>>> b1365eb31dc672a437616cbca92264e0bfc42f3a
   background-color: #18f11f; 
   color: rgb(50, 53, 50); 
   border: none;
@@ -194,19 +190,11 @@ button[type="submit"] {
   transition: background-color 0.3s, transform 0.2s; 
 }
 
-<<<<<<< HEAD
 button[type="button"]:hover {
   background-color: #45a049; 
   transform: translateY(-2px); 
 }
 button[type="button"]:focus {
-=======
-button[type="submit"]:hover {
-  background-color: #45a049; 
-  transform: translateY(-2px); 
-}
-button[type="submit"]:focus {
->>>>>>> b1365eb31dc672a437616cbca92264e0bfc42f3a
   outline: 2px solid #4CAF50; 
 }
 
