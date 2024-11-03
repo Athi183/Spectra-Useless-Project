@@ -1,15 +1,15 @@
 # COLLAPSE 🎯
-## Basic Details
-### Team Name: Spectra                    
+### Basic Details
+## Team Name: Spectra                    
   
-### Team Members
+## Team Members
 Team Lead: Athira V - Muthoot Institute of Technology &  Science                                                                                                                                                                                
   
 Member 2: Meghna Veliath - Muthoot Institute of Technology &  Science                   
   
 Member 3: Diya S Nair- Muthoot Institute of Technology &  Science  
 
-### Project Description
+## Project Description
 The rate of increase in carbon emissions today is alarming, and it seems to just keep on increasing. In this premise, we make this useless website where we enter a carbon emissions value (in tonnes), and get a hilarious response in return.                               
 
 ### The Problem (that doesn't exist)
@@ -45,7 +45,7 @@ For Software:
    npm install
 
 
-### Run
+## Run
 
 1. Run the following command to start the server:
     ```bash
