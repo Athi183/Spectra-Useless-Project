@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;500;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-image: url(a86589f2-6cae-4448-a960-3ab7c2816e41.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .navigation a {
+  color: rgb(51, 255, 0);
+  padding: 2px 15px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  font-weight: 800;
+  border-radius: 20px;
+  transition: background 0.3s;
+}
+
+header .navigation a:hover {
+  background: #f8f8f8;
+}
+
+.content {
+  text-align: center;
+  margin-top: -190px;
+  width: 90%;
+}
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  width: 35%;
+  padding-top: 10px;
+}
+
+.info h2 {
+  color: #7e6805;
+  font-size: 55px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.info p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.info-btn {
+  color: black;
+  background: #ffe781;
+  text-transform: uppercase;
+  font-weight: 900;
+  padding: 7px 15px;
+  border-radius: 10px;
+  transition: background 0.5s;
+}
+
+.info-btn:hover {
+  background: #ffffff;
+}
+
+.media-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.media-icons a {
+  color: black;
+  font-size: 25px;
+  transition: transform 0.3s;
+  margin: 0 30px;
+}
+
+.media-icons a:hover {
+  transform: scale(1.5);
+}
+
+label {
+  display: none;
+}
+
+#check {
+  display: none;
+}
+
+/* Responsive Styles */
+@media (max-width: 960px) {
+  header {
+    padding: 30px 20px;
+  }
+
+  header .navigation {
+    display: none;
+  }
+
+  label {
+    display: block;
+    font-size: 25px;
+    cursor: pointer;
+  }
+
+  #check:checked ~ .navigation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 231, 129, 0.8);
+  }
+
+  .centered-image {
+    width: 70%;
+  }
+
+  .info h2 {
+    font-size: 35px;
+  }
+
+  .info p {
+    font-size: 14px;
+  }
+}
