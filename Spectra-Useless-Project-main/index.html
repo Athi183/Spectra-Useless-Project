@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="./style/css/all.min.css">
+</head>
+<body>
+  <section class="first-page">
+    <input type="checkbox" id="check">
+    <header>
+      <label for="check">
+        <i class="fas fa-bars menu-btn"></i>
+        <i class="fas fa-times close-btn"></i>
+      </label>
+    </header>
+
+    <div class="content">
+      <img src="logo.png" alt="Image" class="centered-image">
+      <div class="info">
+        <p>The wake-up call.</p>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="nextpage">
+        <div class="form-feed">
+          <form>
+            <label for="percent">Enter the carbon percentage:</label><input type="text" id="cpercent">
+            <button type="button" onclick="randNum()">SUBMIT</button>
+          </form>
+          <label for="planting"><p>Why don't you plant <span id="result"></span> trees?</p></label>
+        </div>
+      </div> 
+    </div>
+  </section>
+  <script src="randomno.js"></script>
+</body>
+</html>
