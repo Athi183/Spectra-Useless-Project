@@ -13,35 +13,17 @@ section {
   flex-direction: column;
   align-items: center;
   width: 100%;
-  height: 100vh;
+  height: 150vh;
   background-image: url(a86589f2-6cae-4448-a960-3ab7c2816e41.jpg);
   background-size: cover;
   background-position: center;
 }
-
-header {
+.first-page {
   position: relative;
-  width: 100%;
-  padding: 30px 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  background-image: url(a86589f2-6cae-4448-a960-3ab7c2816e41.jpg);
+  background-size: cover;
+  background-position: center;
 }
-
-header .navigation a {
-  color: rgb(51, 255, 0);
-  padding: 2px 15px;
-  letter-spacing: 1px;
-  text-decoration: none;
-  font-weight: 800;
-  border-radius: 20px;
-  transition: background 0.3s;
-}
-
-header .navigation a:hover {
-  background: #f8f8f8;
-}
-
 .content {
   text-align: center;
   margin-top: -190px;
@@ -153,13 +135,3 @@ label {
   width: 100%;
   height: 100vh;
 }
-.nextpage{
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 60px;
-  color: #f8f8f8;
-
-  }
