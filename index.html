@@ -7,10 +7,9 @@
   <title>Document</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="stylesheet" href="./style/css/all.min.css">
-  <script src="randomno.js"></script> 
 </head>
 <body>
-  <section>
+  <section class="first-page">
     <input type="checkbox" id="check">
     <header>
       <label for="check">
@@ -20,25 +19,24 @@
     </header>
 
     <div class="content">
-      <img src="title.png" alt="Image" class="centered-image">
+      <img src="logo.png" alt="Image" class="centered-image">
       <div class="info">
-        <h2>Your Content Title Here</h2>
-        <p>Your content description goes here.</p>
-        <a href="#" class="info-btn">Learn More</a>
+        <p>The wake-up call.</p>
       </div>
     </div>
 
-    <!-- Social Media Icons -->
-    <div class="media-icons">
-      <a href="#"><i class="fab fa-facebook-f"></i></a>
-      <a href="#"><i class="fab fa-twitter"></i></a>
-      <a href="#"><i class="fab fa-instagram"></i></a>
-    </div>
     <div class="container">
       <div class="nextpage">
-          
-      </div>
+        <div class="form-feed">
+          <form>
+            <label for="percent">Enter the carbon emission value (in metric tonnes):</label><input type="text" id="cpercent">
+            <button type="button" onclick="randNum()">SUBMIT</button>
+          </form>
+          <label for="planting"><p>Why don't you plant <span id="result"></span> trees?</p></label>
+        </div>
+      </div> 
     </div>
   </section>
+  <script src="randomno.js"></script>
 </body>
 </html>
