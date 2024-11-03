@@ -149,3 +149,17 @@ label {
     font-size: 14px;
   }
 }
+.container{
+  width: 100%;
+  height: 100vh;
+}
+.nextpage{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  color: #f8f8f8;
+
+  }
