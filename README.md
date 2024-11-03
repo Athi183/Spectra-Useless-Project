@@ -34,19 +34,21 @@ For Software:
 ## Installation                    
   
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+   ```bash 
    git clone https://github.com/Athi183/Spectra-Useless-Project.git                                                   
-  
+   ```bash
    cd Spectra-Useless-Project                                                        
                        
-2. Make sure to install Node JS:
+3. Make sure to install Node JS:
+   ```bash
    npm install
 
 
 ### Run
 
 1. Run the following command to start the server:
-
+    ```bash
    npm start
    
 
