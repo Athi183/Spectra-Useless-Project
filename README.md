@@ -22,14 +22,13 @@ Increased carbon emissions call for planting as few trees as possible.
   
 When the user enters a carbon emission value, each time "Submit" is clicked, it generates a random number for the trees to be planted, this number will not reduce even 10% of the carbon emission rate. The website, thus, mocks the user. 
 ## Technical Details
-For Software:
+
 
 HTML
 CSS
 Node JS                                     
-                                    
+                                          
   
-For Software:
 
 ## Installation                    
   
