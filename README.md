@@ -3,11 +3,11 @@
 ## Team Name: Spectra                    
   
 ## Team Members
-Team Lead: Athira V - Muthoot Institute of Technology &  Science                                                                                                                                                                                
+### Team Lead: Athira V - Muthoot Institute of Technology &  Science                                                                                                                                                                                
   
-Member 2: Meghna Veliath - Muthoot Institute of Technology &  Science                   
+### Member 2: Meghna Veliath - Muthoot Institute of Technology &  Science                   
   
-Member 3: Diya S Nair- Muthoot Institute of Technology &  Science  
+### Member 3: Diya S Nair- Muthoot Institute of Technology &  Science  
 
 ## Project Description
 The rate of increase in carbon emissions today is alarming, and it seems to just keep on increasing. In this premise, we make this useless website where we enter a carbon emissions value (in tonnes), and get a hilarious response in return.                               
@@ -52,7 +52,7 @@ Node JS
    
 
 ### Project Documentation
-For Software:
+
 
 ## Screenshots 
 ![Logo and Tagline](https://github.com/user-attachments/assets/eb44d046-837e-4900-afbc-af5c1fcb3a27)
@@ -66,6 +66,6 @@ The number of trees to be planted for high carbon emissions, for which Collapse 
 
 
 ## Team Contributions
-<p>Athira V: Front-End Development, Logo design </p>
-<p> Meghna Veliath: Random Number Generator in JS</p>
-<p> Diya S Nair: Idea, enhanced cases in Random Number Generator, attempted API integration with Gemini and Groq </p>
+### <p> Athira V: Front-End Development, Logo design </p>
+### <p> Meghna Veliath: Random Number Generator in JS</p>
+### <p> Diya S Nair: Idea, enhanced cases in Random Number Generator, attempted API integration with Gemini and Groq </p>
