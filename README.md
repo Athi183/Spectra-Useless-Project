@@ -1,3 +1,5 @@
+# Hosted Link
+https://athi183.github.io/Spectra-Useless-Project/
 # COLLAPSE 🎯
 ### Basic Details
 ## Team Name: Spectra                    
