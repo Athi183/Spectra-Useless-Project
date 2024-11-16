@@ -68,4 +68,4 @@ The number of trees to be planted for high carbon emissions, for which Collapse 
 ## Team Contributions
 ### <p> Athira V: Front-End Development, Logo design </p>
 ### <p> Meghna Veliath: Random Number Generator in JS</p>
-### <p> Diya S Nair: Idea, enhanced cases in Random Number Generator, attempted API integration with Gemini and Groq </p>
+### <p> Diya S Nair: Idea, enhanced cases in Random Number Generator</p>
