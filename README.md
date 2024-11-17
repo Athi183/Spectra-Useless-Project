@@ -62,7 +62,7 @@ The name of the website and the tagline.
 ![Lesser carbon emissions](https://github.com/user-attachments/assets/58d7dc7e-39cc-4164-a6fe-76c14a3b85c2)
 
 The number of trees to be planted for relatively lesser monthly carbon emissions, Collapse suggests less trees. 
-![S![High carbon emissions](https://github.com/user-attachments/assets/61a984b8-aa89-45bb-ba70-a25a32b0cfa3)
+![High carbon emissions](https://github.com/user-attachments/assets/61a984b8-aa89-45bb-ba70-a25a32b0cfa3)
 
 The number of trees to be planted for high carbon emissions, for which Collapse suggests even lesser trees.
 
